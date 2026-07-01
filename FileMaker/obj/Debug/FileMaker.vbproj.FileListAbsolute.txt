@@ -1,0 +1,11 @@
+C:\Users\free4\OneDrive\Documents\VS Projects\CS120\Week 6\FileMaker\bin\Debug\FileMaker.exe.config
+C:\Users\free4\OneDrive\Documents\VS Projects\CS120\Week 6\FileMaker\bin\Debug\FileMaker.exe
+C:\Users\free4\OneDrive\Documents\VS Projects\CS120\Week 6\FileMaker\bin\Debug\FileMaker.pdb
+C:\Users\free4\OneDrive\Documents\VS Projects\CS120\Week 6\FileMaker\bin\Debug\FileMaker.xml
+C:\Users\free4\OneDrive\Documents\VS Projects\CS120\Week 6\FileMaker\obj\Debug\FileMaker.vbproj.AssemblyReference.cache
+C:\Users\free4\OneDrive\Documents\VS Projects\CS120\Week 6\FileMaker\obj\Debug\FileMaker.Resources.resources
+C:\Users\free4\OneDrive\Documents\VS Projects\CS120\Week 6\FileMaker\obj\Debug\FileMaker.vbproj.GenerateResource.cache
+C:\Users\free4\OneDrive\Documents\VS Projects\CS120\Week 6\FileMaker\obj\Debug\FileMaker.vbproj.CoreCompileInputs.cache
+C:\Users\free4\OneDrive\Documents\VS Projects\CS120\Week 6\FileMaker\obj\Debug\FileMaker.exe
+C:\Users\free4\OneDrive\Documents\VS Projects\CS120\Week 6\FileMaker\obj\Debug\FileMaker.xml
+C:\Users\free4\OneDrive\Documents\VS Projects\CS120\Week 6\FileMaker\obj\Debug\FileMaker.pdb

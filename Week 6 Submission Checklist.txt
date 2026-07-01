@@ -1,0 +1,30 @@
+Week 6 Submission Checklist
+
+Required:
+[X] App Development Document
+[X] Folder Maker App project files
+[X] README.txt or README.md
+[X] Git repository link
+[ ] Screenshot of Discord post
+[X] Screenshots showing the app and generated folders/files
+[ ] Accessible Canvas submission link
+
+App Dev Doc shows:
+[X] Genre
+[X] Story
+[X] Product
+[X] Variables
+[X] Functions or procedures
+[X] Execution strategy
+
+Folder Maker App shows:
+[X] Creates folders with code
+[X] Creates at least one required file, such as README.txt
+[X] Uses clear names
+[X] Includes comments explaining functions or procedures
+[X] Connects to the project or team structure
+
+Link check:
+[ ] Link opens without requesting permission
+[ ] Link points directly to the correct project
+[ ] Link does not open a large unrelated folder

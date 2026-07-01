@@ -1,0 +1,108 @@
+# Week 6 App Development Document
+
+## Project / Team
+
+Project name: Routers Guild Tasks and Objectives
+
+Student name(s): Hernan Esparza
+
+Team strategy: A little a day prevents a lot at the end.
+
+	- Individual project.
+
+## 0. Genre
+
+	- Scifi/Fantasy
+
+Genre:
+
+	- Anime
+
+Explain why this genre fits your app idea:
+
+	- This genre fits my app idea as there are anime such as Sword Art Online that revolve around the cast of characters being trapped in a game. Games have objectives/ quests they have to go on and complete.
+
+Describe the world and context. This may be real, fantasy, science fiction, personal, professional, or practical.
+	- A world in the far future is struck by two cataclysmic events the first sent humanity back hundreds of years, the second melded a magical and supernatural realm to our own. Many years after this event humans have found a way to coexist with their new melded world. A large group of explorers called the Routers Guild are responsible for going out into the new world and gathering information on what is out there. They use very primitive modules (early laptop computers) to manually connect to other hubs and to take down information and track objectives.
+
+What happened before the app exists?
+	- Any member of the Routers Guild that had to document finding and organize them in the field had to be written down and organized, tasks and quests were provided but now they are integrated in their computing modules.
+
+Who lives or works in this world?
+	- Humans
+
+What pressure, problem, confusion, or need exists?
+	- Information about what caused the events and the worlds past. Tasks/ Quests are handed out at the beginning of expeditions so resources can be tracked and used appropriately.
+
+## 2. Story / User Need
+	- User needs to be able to create a task/ quest list before every expedition to get approval from the guild and be provided resources for them. These are tracked and checked of during expeditions
+
+Who is the user?
+	- Main character/ Routers Guild members
+
+What does the user need?
+	- a way to keep track of tasks and quests they are currently on
+
+What problem are they trying to solve?
+	- information gathering and task assigning that is efficient and does not need to be transcribed from paper. Safe from elements.
+
+Why does this matter to them?
+	- Information gathering and questing are major parts of what this guild does.
+
+## 3. Product Definition
+	- Task/ Quest list
+
+What are you building inside the story?
+	- A task/ quest list that the expedition created for submission to the guild. There is a list with explanation on that task/quest so the guild can review and approve or deny it.
+
+What will the app help the user do?
+	- create and keep track of the quest or tasks the request or are given
+
+What is the smallest useful version of this app?
+	- Task list
+
+## 4. Variables
+
+List containers of information your app may need.
+
+| Variable Name | Data Type | What It Stores | Example Value |
+| --- | --- | --- | --- |
+| QuestName | String | Name of the Quest/ task | Find 10 Berries |
+| Description | txt | Description of Quest | (Why is quest being attempted) |
+
+## 5. Functions and Procedures
+
+List actions the app needs to perform.
+
+| Function / Procedure | Purpose | Input | Output or Result |
+| --- | --- | --- | --- |
+| CreateProjectFolders | Creates the folder structure | project path | Folders are created |
+| BuildReadMeText | Creates README content | project name | README text |
+| ValidateProjectName | Checks that the name is usable | project name | True or False |
+
+## 6. Questions and Answers
+
+Identify possible problems before coding.
+
+Question: Will it create duplicates?
+
+Answer or plan: Attempt to have the app check if the task already exists
+
+Question: 
+
+Answer or plan:
+
+## 7. Execution Strategy
+
+What will you build first?
+	- Prompt to name task
+
+How will you test it?
+	- Run the app and see if the Quests and descriptions appear
+
+What screenshots will prove it works?
+
+What will you refactor or clean up if you have time?
+	- background/ UI
+
+## 8. Git Repository
