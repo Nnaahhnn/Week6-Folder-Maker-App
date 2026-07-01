@@ -1,15 +1,15 @@
 # Week 6 Folder Maker App
 
 ## Purpose
-Explain what your app creates and why it is useful.
+
 	- Application creates a template of folders and subfolders to provide an organized file system between all users.
 
 ## How To Run
-Explain how to open and run the VB.NET project.
+
 	- Launch project and Run once opened.
 
 ## Folder Structure Created
-List the folders and files your app generates.
+
 	- Project
 		> Images
 		> Notes
