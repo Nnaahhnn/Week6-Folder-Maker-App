@@ -19,11 +19,11 @@
 		> Other
 
 ## Story to App Connection
-Explain how your story or backstory led to this utility.
+
 	- Countless discoveries, technologies, and other bits of information had been lost as they were tracked and written using paper. The modules members of the guild use and this new method of storing and tracking objectives.
 
 ## Team Members
-Individual project.
+	- Individual project.
 
 ## Screenshots
-List or include screenshots showing the app, generated folders, README file, Git repo, and Discord post.
+	- List or include screenshots showing the app, generated folders, README file, Git repo, and Discord post.
